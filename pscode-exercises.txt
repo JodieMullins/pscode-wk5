@@ -1,0 +1,74 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+---------------------------------------------------------------------------------------------------
+
+# a variable can be set to add two numbers
+sum_of_two_numbers = num1 + num2
+
+# does the situation require adding various numbers often?
+# a function can also be defined to calculate two numbers
+
+def sum_of_two_numbers(num1, num2):
+    adding_numbers = num1 + num2
+    return the value of the variable assigned to the sum of two numbers together
+
+
+
+
+
+
+// Exercise 2: Check if a Number is Even or Odd
+----------------------------------------------------------------------------------------------------
+
+if num1 is divisible by two with a remainder of zero, the number is even
+even = num1 % 2
+
+  if the value of the variable 'even' is 0, 
+  then num1 is an even number  (and odd == False or odd != True if even == True)
+
+ if num1 has any value other than 0 as a %(remainder) of 2 
+ then num1 is odd
+
+odd_case = num1 % 2
+if odd_case >=1 then odd_case == odd (and even == False or even != True)
+
+
+
+
+
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+----------------------------------------------------------------------------------------------
+
+create a list of 5 numbers [num1, num2, num3, num4, num5]
+  by creating list?
+  by user input?
+  maybe define a new function to consistently perform an operation repeatedly among an entire program?
+
+average = sum[all five numbers] / 5 
+# maybe for loop? 
+for every number in list, add to total of list value
+outside of for loop, once, divide the calculation by 5
+
+minimum = smallest number in list
+
+
+maximum = greatest number in list
+
+
+print "The average of numbers" , [display num1, num2, num3, num4, num5] , comes out to be , average"
+
+print "The minimum number in the list is" , minimum
+
+print "The maximum number in the list is" ,  maximum
+
+
+
+
+
+-- END --
