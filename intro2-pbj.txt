@@ -1,0 +1,123 @@
+// begin
+
+ASSUMPTIONS:
+TWO BREAD SLICES AVAILABLE, PB, JELLY, TWO KNIVES AVAILABLE 
+(WHERE ARE ITEMS LOCATED IN RELATION TO ROBOT?)
+
+(IS A PLATE AVAILABLE? OR PAPER TOWEL? WHAT SURFACE IS THE BREAD GOING ONTO?? ARE WE GOING TO PUT GROCERIES UP AFTERWARDS?)
+
+
+GRAB PEANUT BUTTER JAR
+
+REMOVE LID FROM PB JAR
+
+USE FREE GRIPPER TO GRAB FLAT KNIFE 
+
+DIP FLAT KNIFE INTO JAR SLIGHTLY TO GRAB PB SCOOP OF 2 TABLESPOONS ONTO KNIFE
+
+LIGHTLY PLACE PEANUT BUTTER JAR DOWN ON SURFACE (WHERE??)
+
+HOLD TOP LEFT CORNER OF BREAD — ON LEFT SIDE
+
+ANGLE PEANUT BUTTER TOWARDS BREAD SLICE
+
+GLIDE PEANUT BUTTER FROM LEFT CORNER OF BREAD DOWN TO BOTTOM RIGHT CORNER OF BREAD
+
+REMOVE GRIPPER FROM HOLD OF TOP LEFT CORNER OF BREAD
+
+CLEAN KNIFE
+GRAB PAPER TOWEL
+GLIDE PAPER TOWEL ACROSS KNIFE
+DISCARD PAPER TOWEL (WHERE IS IT GETTING DISCARDED TO?)
+
+REPLACE LID ONTO PEANUT BUTTER JAR
+
+GRAB JELLY JAR
+
+REMOVE LID FROM JELLY JAR
+
+GENTLY PLACE LID ON SURFACE
+
+DIP CLEAN KNIFE INTO JELLY JAR UNTIL COVERED IN JELLY, ABOUT TWO TABLESPOONS
+
+PLACE JELLY JAR SAFELY ON SURFACE
+
+TAKE FREE GRIPPER AND GRAB LEFT TOP CORNER OF RIGHT SIDE BREAD
+
+SMEAR KNIFE JELLY SIDE ACROSS THE BREAD FROM TOP CORNER OF BREAD HELD TO BOTTOM LEFT SIDE CORNER TO EDGE OF BREAD
+
+
+REMOVE GRIPPER FROM TOP CORNER OF BREAD
+
+CLEAN KNIFE() FUNCTION
+
+REPLACE LID ON TOP OF JELLY JAR UNTIL CLOSED
+
+COMBINE LEFT SIDE AND RIGHT SIDE BREAD AS SPECIFIED:
+	TOP LEFT CORNER OF OF LEFT SIDE BREAD NEEDS WITH PEANUT BUTTER FACING AREA NEEDS TO ALIGHT AGAINST TOP LEFT CORNER OF RIGHT SIDE BREAD WITH JELLY. 
+	MUST GRAB PEANUT BUTTER SLICE OF BREAD AND PLACE ONTO JELLY: 
+TOP RIGHT CORNER TO TOP RIGHT CORNER
+BOTTOM LEFT CORNER TO BOTTOM LEFT CORNER
+BOTTOM RIGHT CORNER TO BOTTOM LEFT CORNER
+
+// end
+
+
+
+WEEK 5, INTRO COURSE 2, HOMEWORK:
+
+// Exercise 1: Calculate the Sum of Two Numbers
+----------------------------------------------------------------------------------------------
+
+let num1 = 6
+let num2 = 5
+let sum = num1 + num2
+
+
+
+
+// Exercise 2: Check if a Number is Even or Odd
+----------------------------------------------------------------------------------------------
+
+in the case that a number is divisible by 2, let it equal even
+
+in the case that a number is not evenly divisible by 2, let it be odd
+
+a number is divible by 2 if the remainder of its division is 0
+
+a number is odd if the remainder of the division of a number and 2 comes out to be 1 or greater
+
+
+
+
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+----------------------------------------------------------------------------------------------
+
+a)
+for every number 1 - 5:
+create a value equal to an integer within a range of 1 - 100 
+let the index start from 0
+
+b)
+for every number that was calculated in the steps above, add those together and divide the sum by the number equal to 5
+
+c) for every number that was indexed at 0, 1, 2, 3, 4: tell me the smallest value in the list
+Now give me the largest value in the list
+
+d) log to the console for the user to see the output:
+
+	-b > print("AVERAGE:" + " " + RESULTS)
+
+	- c1 > Minimum Value in List = 
+        - c2 > Maximum Value in List - 
+
+
+
+
